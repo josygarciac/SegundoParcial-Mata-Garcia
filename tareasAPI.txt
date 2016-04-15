@@ -1,0 +1,43 @@
+Tareas de la API:
+
+LISTAR:
+*Método: GET.
+*Retorna una lista con todos los video-juegos registrados
+*Parámetros: Ninguno.
+*Respuesta: JSON.
+*URL: localhost/SegundoParcial-Mata-Garcia/server/videogames
+
+DETALLE
+*Método: GET
+*Retorna la totalidad de datos de un juego.
+Parámetros: ninguno.
+Respuesta: JSON.
+URL: localhost/SegundoParcial-Mata-Garcia/server/********
+
+CREAR
+*Método:POST.
+*Registra un nuevo video-juego en la base de datos.
+*Parámetros: JSON {titulo , desarollador, descripción, consola, fechaDeLanzamiento, calificación, urlPortada}.
+Respuesta: JSON
+URL: localhost/SegundoParcial-Mata-Garcia/server/********
+
+EDITAR
+*Método: POST.
+*Edita una entrada existente en la base de datos.
+*Parámetros: JSON {id, titulo, desarollador, descripción, consola, fechaDeLanzamiento, calificación, urlPortada .}
+Respuesta: JSON.
+URL: localhost/SegundoParcial-Mata-Garcia/server/********
+
+ELIMINAR 
+*Método: POST.
+*Elimina una entrada de la colección.
+*Parámetros: id de la entrada a eliminar.
+*Respuesta: JSON.
+URL:  localhost/SegundoParcial-Mata-Garcia/server/********
+
+
+
+
+
+
+
