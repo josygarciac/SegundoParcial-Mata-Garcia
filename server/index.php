@@ -45,6 +45,16 @@ $app->get(
     }
 );
 
+//Get one videogame
+$app->get(
+    '/videogame/{id}',
+    function ($request, $response, $args) {
+        $videoGameController = new App\Controllers\VideoGameController();
+        $result = $videoGameController->getAll($request);
+        return $response->withJson($result);
+    }
+);
+
 //Delete video game
 $app->delete(
     '/videogame/{id}',

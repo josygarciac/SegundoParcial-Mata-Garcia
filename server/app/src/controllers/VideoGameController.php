@@ -136,4 +136,79 @@ class VideoGameController {
     return $result;
   }
 
+  /**
+    * Update one by Id
+    * @param Request $request
+    *
+    * @return []
+  */
+  public function update($request, $args) {
+    $result = [];
+
+    $id = $args['id'];
+
+    $formData = $request->getParsedBody();
+
+    $titulo = null;
+    $desarrollador = null;
+    $descripcion = null;
+    $consola = null;
+    $fechaLanzamiento = null;
+    $calificacion = null;
+    $imagenURL = null;
+
+    LoggingService::logVariable($formData, __FILE__, __LINE__);
+
+    // Verify the entry of titulo
+    if (array_key_exists("titulo", $formData)) {
+      $titulo = $formData["titulo"];
+    }
+
+    // Verify the entry of desarrollador
+    if (array_key_exists("desarrollador", $formData)) {
+      $desarrollador = $formData["desarrollador"];
+    }
+
+    // Verify the entry of descripcion
+    if (array_key_exists("descripcion", $formData)) {
+      $descripcion = $formData["descripcion"];
+    }
+
+    // Verify the entry of consola
+    if (array_key_exists("consola", $formData)) {
+      $consola = $formData["consola"];
+    }
+
+    // Verify the entry of fechaLanzamiento
+    if (array_key_exists("fechaLanzamiento", $formData)) {
+      $fechaLanzamiento = $formData["fechaLanzamiento"];
+    }
+
+    // Verify the entry of calificacion
+    if (array_key_exists("calificacion", $formData)) {
+      $calificacion = $formData["calificacion"];
+    }
+
+    // Verify the entry of imagenURL
+    if (array_key_exists("imagenURL", $formData)) {
+      $imagenURL = $formData["imagenURL"];
+    }
+
+    if (isset($id, $titulo, $desarrollador, $descripcion, $consola, $fechaLanzamiento, $calificacion, $imagenURL)) {
+      $updateResult = $this->videoGameService->update($id, $titulo, $desarrollador, $descripcion, $consola, $fechaLanzamiento, $calificacion, $imagenURL);
+
+      if (array_key_exists("error", $updateResult)) {
+        $result["error"] = $updateResult["error"];
+      }
+
+      $result["message"] = $updateResult["message"];
+    } else {
+      $result["error"] = true;
+      $result["message"] = "No pueden existir datos vacíos.";
+    }
+
+    return $result;
+  }
+
+
 }

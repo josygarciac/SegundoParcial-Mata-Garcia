@@ -167,3 +167,429 @@ Array
     [calificacion] => 4,5
     [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
 )
+---- 
+14/04/16 21:09:48 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 157
+Array
+(
+    [titulo] => Super Mario
+    [desarrollador] => Super
+    [descripcion] => Honguitos y más honguitos
+    [consola] => Nintendo
+    [fechaLanzamiento] => 2016-04-14
+    [calificacion] => 5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 21:09:48 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\services\VideoGameService.php: 215
+---- 
+14/04/16 21:13:49 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 160
+Array
+(
+    [titulo] => Super Mario
+    [desarrollador] => Super
+    [descripcion] => Honguitos y más honguitos
+    [consola] => Nintendo
+    [fechaLanzamiento] => 2016-04-14
+    [calificacion] => 5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 21:15:04 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 160
+Array
+(
+    [titulo] => Super Mario
+    [desarrollador] => Super
+    [descripcion] => Honguitos y más honguitos
+    [consola] => Nintendo
+    [fechaLanzamiento] => 2016-04-14
+    [calificacion] => 5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 21:16:43 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 160
+Array
+(
+    [titulo] => Super Mario
+    [desarrollador] => Super
+    [descripcion] => Honguitos y más honguitos
+    [consola] => Nintendo
+    [fechaLanzamiento] => 2016-04-14
+    [calificacion] => 5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 21:16:43 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\services\VideoGameService.php: 216
+---- 
+14/04/16 21:18:31 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 160
+Array
+(
+    [titulo] => Super Mario
+    [desarrollador] => Super
+    [descripcion] => Honguitos y más honguitos
+    [consola] => Nintendo
+    [fechaLanzamiento] => 2016-04-14
+    [calificacion] => 5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 21:18:31 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\services\VideoGameService.php: 216
+---- 
+14/04/16 21:18:53 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 160
+Array
+(
+    [titulo] => Prueba
+    [desarrollador] => Super
+    [descripcion] => Honguitos y más honguitos
+    [consola] => Nintendo
+    [fechaLanzamiento] => 2016-04-14
+    [calificacion] => 5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 21:18:53 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\services\VideoGameService.php: 216
+---- 
+14/04/16 21:21:04 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 160
+Array
+(
+    [titulo] => Prueba
+    [desarrollador] => Super
+    [descripcion] => Honguitos y más honguitos
+    [consola] => Nintendo
+    [fechaLanzamiento] => 2016-04-14
+    [calificacion] => 5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 21:21:04 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\services\VideoGameService.php: 216
+---- 
+14/04/16 21:21:05 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 160
+Array
+(
+    [titulo] => Prueba
+    [desarrollador] => Super
+    [descripcion] => Honguitos y más honguitos
+    [consola] => Nintendo
+    [fechaLanzamiento] => 2016-04-14
+    [calificacion] => 5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 21:21:05 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\services\VideoGameService.php: 216
+---- 
+14/04/16 21:21:05 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 160
+Array
+(
+    [titulo] => Prueba
+    [desarrollador] => Super
+    [descripcion] => Honguitos y más honguitos
+    [consola] => Nintendo
+    [fechaLanzamiento] => 2016-04-14
+    [calificacion] => 5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 21:21:05 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\services\VideoGameService.php: 216
+---- 
+14/04/16 21:21:05 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 160
+Array
+(
+    [titulo] => Prueba
+    [desarrollador] => Super
+    [descripcion] => Honguitos y más honguitos
+    [consola] => Nintendo
+    [fechaLanzamiento] => 2016-04-14
+    [calificacion] => 5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 21:21:05 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\services\VideoGameService.php: 216
+---- 
+14/04/16 21:21:06 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 160
+Array
+(
+    [titulo] => Prueba
+    [desarrollador] => Super
+    [descripcion] => Honguitos y más honguitos
+    [consola] => Nintendo
+    [fechaLanzamiento] => 2016-04-14
+    [calificacion] => 5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 21:21:06 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\services\VideoGameService.php: 216
+---- 
+14/04/16 21:21:06 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 160
+Array
+(
+    [titulo] => Prueba
+    [desarrollador] => Super
+    [descripcion] => Honguitos y más honguitos
+    [consola] => Nintendo
+    [fechaLanzamiento] => 2016-04-14
+    [calificacion] => 5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 21:21:06 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\services\VideoGameService.php: 216
+---- 
+14/04/16 21:21:06 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 160
+Array
+(
+    [titulo] => Prueba
+    [desarrollador] => Super
+    [descripcion] => Honguitos y más honguitos
+    [consola] => Nintendo
+    [fechaLanzamiento] => 2016-04-14
+    [calificacion] => 5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 21:21:06 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\services\VideoGameService.php: 216
+---- 
+14/04/16 21:21:06 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 160
+Array
+(
+    [titulo] => Prueba
+    [desarrollador] => Super
+    [descripcion] => Honguitos y más honguitos
+    [consola] => Nintendo
+    [fechaLanzamiento] => 2016-04-14
+    [calificacion] => 5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 21:21:06 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\services\VideoGameService.php: 216
+---- 
+14/04/16 21:22:52 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 160
+Array
+(
+    [titulo] => Prueba
+    [desarrollador] => Super
+    [descripcion] => Honguitos y más honguitos
+    [consola] => Nintendo
+    [fechaLanzamiento] => 2016-04-14
+    [calificacion] => 5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 21:22:52 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\services\VideoGameService.php: 216
+---- 
+14/04/16 21:24:25 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 160
+Array
+(
+    [titulo] => Prueba
+    [desarrollador] => Super
+    [descripcion] => Honguitos y más honguitos
+    [consola] => Nintendo
+    [fechaLanzamiento] => 2016-04-14
+    [calificacion] => 5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 21:24:25 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\services\VideoGameService.php: 225
+---- 
+14/04/16 21:31:57 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 39
+Array
+(
+    [titulo] => Prueba
+    [desarrollador] => Super
+    [descripcion] => Honguitos y más honguitos
+    [consola] => Nintendo
+    [fechaLanzamiento] => 2016-04-14
+    [calificacion] => 5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 21:31:57 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\services\VideoGameService.php: 59
+---- 
+14/04/16 21:33:34 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 39
+Array
+(
+    [titulo] => Prueba
+    [desarrollador] => Super
+    [descripcion] => Honguitos y más honguitos
+    [consola] => Nintendo
+    [fechaLanzamiento] => 2016-04-14
+    [calificacion] => 5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 21:33:34 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\services\VideoGameService.php: 59
+---- 
+14/04/16 21:37:22 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 39
+Array
+(
+    [titulo] => Prueba
+    [desarrollador] => Super
+    [descripcion] => Honguitos y más honguitos
+    [consola] => Nintendo
+    [fechaLanzamiento] => 2016-04-14
+    [calificacion] => 5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 21:37:22 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\services\VideoGameService.php: 59
+---- 
+14/04/16 21:37:23 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 39
+Array
+(
+    [titulo] => Prueba
+    [desarrollador] => Super
+    [descripcion] => Honguitos y más honguitos
+    [consola] => Nintendo
+    [fechaLanzamiento] => 2016-04-14
+    [calificacion] => 5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 21:37:23 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\services\VideoGameService.php: 59
+---- 
+14/04/16 21:37:24 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 39
+Array
+(
+    [titulo] => Prueba
+    [desarrollador] => Super
+    [descripcion] => Honguitos y más honguitos
+    [consola] => Nintendo
+    [fechaLanzamiento] => 2016-04-14
+    [calificacion] => 5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 21:37:24 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\services\VideoGameService.php: 59
+---- 
+14/04/16 21:37:24 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 39
+Array
+(
+    [titulo] => Prueba
+    [desarrollador] => Super
+    [descripcion] => Honguitos y más honguitos
+    [consola] => Nintendo
+    [fechaLanzamiento] => 2016-04-14
+    [calificacion] => 5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 21:37:24 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\services\VideoGameService.php: 59
+---- 
+14/04/16 21:37:24 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 39
+Array
+(
+    [titulo] => Prueba
+    [desarrollador] => Super
+    [descripcion] => Honguitos y más honguitos
+    [consola] => Nintendo
+    [fechaLanzamiento] => 2016-04-14
+    [calificacion] => 5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 21:37:24 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\services\VideoGameService.php: 59
+---- 
+14/04/16 21:37:25 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 39
+Array
+(
+    [titulo] => Prueba
+    [desarrollador] => Super
+    [descripcion] => Honguitos y más honguitos
+    [consola] => Nintendo
+    [fechaLanzamiento] => 2016-04-14
+    [calificacion] => 5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 21:37:25 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\services\VideoGameService.php: 59
+---- 
+14/04/16 21:37:25 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 39
+Array
+(
+    [titulo] => Prueba
+    [desarrollador] => Super
+    [descripcion] => Honguitos y más honguitos
+    [consola] => Nintendo
+    [fechaLanzamiento] => 2016-04-14
+    [calificacion] => 5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 21:37:25 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\services\VideoGameService.php: 59
+---- 
+14/04/16 21:37:25 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 39
+Array
+(
+    [titulo] => Prueba
+    [desarrollador] => Super
+    [descripcion] => Honguitos y más honguitos
+    [consola] => Nintendo
+    [fechaLanzamiento] => 2016-04-14
+    [calificacion] => 5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 21:37:25 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\services\VideoGameService.php: 59
+---- 
+14/04/16 21:37:25 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 39
+Array
+(
+    [titulo] => Prueba
+    [desarrollador] => Super
+    [descripcion] => Honguitos y más honguitos
+    [consola] => Nintendo
+    [fechaLanzamiento] => 2016-04-14
+    [calificacion] => 5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 21:37:25 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\services\VideoGameService.php: 59
