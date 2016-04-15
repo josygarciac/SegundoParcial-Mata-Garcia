@@ -1,0 +1,169 @@
+---- 
+14/04/16 20:18:00 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 39
+Array
+(
+    [titulo] => Super Mario 3
+    [desarrollador] => Mario
+    [descripcion] => El Mundo Champiñón es atacado por el Rey de los Koopas
+    [consola] => Nintendo Entertainment System
+    [fehaLanzamiento] => 1988-10-23
+    [calificacion] => 4
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 20:19:32 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 39
+Array
+(
+    [titulo] => Super Mario 3
+    [desarrollador] => Mario
+    [descripcion] => El Mundo Champiñón es atacado por el Rey de los Koopas
+    [consola] => Nintendo Entertainment System
+    [fehaLanzamiento] => 1988-10-23
+    [calificacion] => 4
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 20:24:50 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 39
+Array
+(
+    [titulo] => Super Mario 3
+    [desarrollador] => Mario
+    [descripcion] => El Mundo Champiñón es atacado por el Rey de los Koopas
+    [consola] => Nintendo Entertainment System
+    [fehaLanzamiento] => 1988-10-23
+    [calificacion] => 4
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 20:25:10 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 39
+Array
+(
+    [titulo] => Super Mario 3
+    [desarrollador] => Mario
+    [descripcion] => El Mundo Champiñón es atacado por el Rey de los Koopas
+    [consola] => Nintendo Entertainment System
+    [fehaLanzamiento] => 1988-10-23
+    [calificacion] => 
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 20:25:15 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 39
+Array
+(
+    [titulo] => Super Mario 3
+    [desarrollador] => Mario
+    [descripcion] => El Mundo Champiñón es atacado por el Rey de los Koopas
+    [consola] => Nintendo Entertainment System
+    [fehaLanzamiento] => 1988-10-23
+    [calificacion] => 4,5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 20:25:23 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 39
+Array
+(
+    [titulo] => Super Mario 3
+    [desarrollador] => Mario
+    [descripcion] => El Mundo Champiñón es atacado por el Rey de los Koopas
+    [consola] => Nintendo Entertainment System
+    [fehaLanzamiento] => aaa
+    [calificacion] => 4,5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 20:25:29 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 39
+Array
+(
+    [titulo] => Super Mario 3
+    [desarrollador] => Mario
+    [descripcion] => El Mundo Champiñón es atacado por el Rey de los Koopas
+    [consola] => Nintendo Entertainment System
+    [fehaLanzamiento] => 1988-10-23
+    [calificacion] => 4,5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 20:25:29 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 39
+Array
+(
+    [titulo] => Super Mario 3
+    [desarrollador] => Mario
+    [descripcion] => El Mundo Champiñón es atacado por el Rey de los Koopas
+    [consola] => Nintendo Entertainment System
+    [fehaLanzamiento] => 1988-10-23
+    [calificacion] => 4,5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 20:25:30 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 39
+Array
+(
+    [titulo] => Super Mario 3
+    [desarrollador] => Mario
+    [descripcion] => El Mundo Champiñón es atacado por el Rey de los Koopas
+    [consola] => Nintendo Entertainment System
+    [fehaLanzamiento] => 1988-10-23
+    [calificacion] => 4,5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 20:25:30 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 39
+Array
+(
+    [titulo] => Super Mario 3
+    [desarrollador] => Mario
+    [descripcion] => El Mundo Champiñón es atacado por el Rey de los Koopas
+    [consola] => Nintendo Entertainment System
+    [fehaLanzamiento] => 1988-10-23
+    [calificacion] => 4,5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 20:25:30 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 39
+Array
+(
+    [titulo] => Super Mario 3
+    [desarrollador] => Mario
+    [descripcion] => El Mundo Champiñón es atacado por el Rey de los Koopas
+    [consola] => Nintendo Entertainment System
+    [fehaLanzamiento] => 1988-10-23
+    [calificacion] => 4,5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 20:25:30 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 39
+Array
+(
+    [titulo] => Super Mario 3
+    [desarrollador] => Mario
+    [descripcion] => El Mundo Champiñón es atacado por el Rey de los Koopas
+    [consola] => Nintendo Entertainment System
+    [fehaLanzamiento] => 1988-10-23
+    [calificacion] => 4,5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
+---- 
+14/04/16 20:25:30 
+C:\Xampp\htdocs\SegundoParcial-Mata-Garcia\server\app\src\controllers\VideoGameController.php: 39
+Array
+(
+    [titulo] => Super Mario 3
+    [desarrollador] => Mario
+    [descripcion] => El Mundo Champiñón es atacado por el Rey de los Koopas
+    [consola] => Nintendo Entertainment System
+    [fehaLanzamiento] => 1988-10-23
+    [calificacion] => 4,5
+    [imagenURL] => https://es.wikipedia.org/wiki/Super_Mario_Bros._3#/media/File:Supermariobros3logo.svg
+)
