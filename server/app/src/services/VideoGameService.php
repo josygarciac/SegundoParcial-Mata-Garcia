@@ -271,4 +271,45 @@ class VideoGameService {
 
     return $result;
   }
+
+  /**
+   * Get one videogame by Id
+   * @param int $id_purchase
+   * @return array
+   */
+  public function getOne($id) {
+    $result = [];
+
+    // Verify if the id is numeric
+    if (is_numeric($id)) { 
+
+      // Current query
+      $query = "SELECT * FROM games WHERE id = :id LIMIT 1";
+
+      // Query params
+      $params = [":id" => $id];
+
+      $getOneResult = $this->storage->query($query, $params);
+
+      // Success
+      if (count($getOneResult["data"]) > 0) {
+        $videogame = $getOneResult["data"][0];
+
+        $result["message"] = "Videojuego obtenido satisfactoriamente.";
+
+        $result["videogame"] = $videogame;
+      } else {
+        $result["error"] = true;
+        $result["message"] = "Error en la petición";
+      }
+
+    } else {
+        // Invalid id_purchase
+        $result["message"] = "El id es inválido.";
+        $result["error"] = true;
+    }
+
+    return $result;
+  }
+
 }

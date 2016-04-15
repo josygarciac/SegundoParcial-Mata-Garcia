@@ -210,5 +210,27 @@ class VideoGameController {
     return $result;
   }
 
+  /**
+   * Get one videogame by Id
+   * @param Request $request
+   *
+   * @return []
+   */
+  public function getOne($request, $args) {
+    $result = [];
 
+    $id = $args['id'];
+    
+    $getOneResult = $this->videoGameService->getOne($id);
+
+    if (array_key_exists("error", $getOneResult)) {
+      $result["error"] = true;
+    } else {
+      $result["videogame"] = $getOneResult["videogame"];
+    }
+
+    $result["message"] = $getOneResult["message"];
+    
+    return $result;
+  }
 }

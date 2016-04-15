@@ -50,7 +50,7 @@ $app->get(
     '/videogame/{id}',
     function ($request, $response, $args) {
         $videoGameController = new App\Controllers\VideoGameController();
-        $result = $videoGameController->getAll($request);
+        $result = $videoGameController->getOne($request);
         return $response->withJson($result);
     }
 );
